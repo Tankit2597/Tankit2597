@@ -1,6 +1,6 @@
 Hi there 👋 I am Ankit Tiwari
 
-✨ About Me in 30 secs✨
+✨ About Me in 30 secs✨.
 👀 I’m addicted to Data Analysis and I love learning new skill
 💉 I have a Building construction background and now I am a Business Intelligence Engineer (Banking Domain).
 🌱 I self-taught SQL and Tableau
